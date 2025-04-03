@@ -380,3 +380,12 @@
         display: none;
     }
 }
+@media screen and (max-width: 500px){
+  .candidate-photo{
+    height: 100px;
+    width: 100px;
+  }
+  .header-details h1{
+    font-size: 1.5rem;
+  }
+}
