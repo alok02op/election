@@ -381,12 +381,18 @@
     }
 }
 @media screen and (max-width: 500px){
+  .header{
+    padding: 1rem;
+  }
   .candidate-photo{
     height: 120px;
     width: 120px;
   }
   .header-details h1{
     font-size: 1.5rem;
+  }
+  .header-details p{
+    font-size: 0.8rem;
   }
   .temp{
     display: none;
