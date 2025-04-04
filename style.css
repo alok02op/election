@@ -388,6 +388,9 @@
   .header-details h1{
     font-size: 1.5rem;
   }
+  .temp{
+    display: none;
+  }
   .header-content{
     gap: 0rem;
   }
